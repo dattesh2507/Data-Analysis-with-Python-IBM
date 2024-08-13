@@ -51,7 +51,13 @@ This course involves using Python to explore many different types of data. It co
   - Ridge regression
   - GridSearch
   - Model refinement
- 
+
+
+ - Conclusion
+   
+- The distribution plot of Linear Regression and Multiple Regression technique shows how the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size" and "highway-mpg"
+
+Comparing these three models, we conclude that the MLR model is the best model to be able to predict price from our dataset. This result makes sense, since we have 27 variables in total, and we know that more than one of those variables are potential predictors of the final car price.
     ## 🔑 Key Skills Learned 
 - Using Pandas, Numpy and Scipy libraries for data manipulation
 - Using Scikit-Learn to build smart models and make predictions
