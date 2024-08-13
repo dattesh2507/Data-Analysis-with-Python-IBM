@@ -2,9 +2,10 @@
 
 # Data-Analysis-with-Python-IBM
 
+# **Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Set**
 
 ## 📄 Summary 
-This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/dattesh2507/Data-Analysis-with-Python-IBM/blob/main/Data%20Analytics%20for%20House%20Pricing%20Data%20Set.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a predicting of the market prices of car based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics 
 - [Importing datasets](https://github.com/dattesh2507/Data-Analysis-with-Python-IBM/blob/main/Importing%20Data%20Sets%20-%20Used%20Cars%20Pricing.ipynb)
